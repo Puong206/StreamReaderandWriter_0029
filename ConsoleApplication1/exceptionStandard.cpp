@@ -16,6 +16,7 @@ int main() {
 	}
 	catch (exception& e)
 	{
-
+		//penangkap menggunakan objek exception
+		cout << e.what() << endl;
 	}
 }
