@@ -4,3 +4,7 @@
 #include <array>
 // untuk objek array yang akan digunakan
 using namespace std;
+
+int main() {
+
+}
